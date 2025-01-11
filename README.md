@@ -10,3 +10,5 @@ and trends.
 •	Working Years
 •	Company 
 •	Performance
+
+< a  href ="https://github.com/Guruswetha2001/HR-Analytics-Dashboard-for-Employee-Attrition/blob/main/D.Guru%20Swetha%20HR%20Analytics%20Dashboard.xlsx">HRAnalytics Dashboard</a>
