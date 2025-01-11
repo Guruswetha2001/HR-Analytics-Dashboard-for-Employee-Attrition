@@ -7,8 +7,8 @@ and trends.
 
 •	Monthly Rates
 
-•	Hourly Rat
-e
+•	Hourly Rate
+
 •	Daily Rate
 
 •	Working Years
