@@ -12,3 +12,5 @@ and trends.
 •	Performance
 
  - <a href="https://github.com/Guruswetha2001/HR-Analytics-Dashboard-for-Employee-Attrition/blob/main/D.Guru%20Swetha%20HR%20Analytics%20Dashboard.xlsx">HR Analytics Dashboard</a>
+
+-<a href="https://github.com/Guruswetha2001/HR-Analytics-Dashboard-for-Employee-Attrition/blob/main/HR%20DASHBOARD%20IMAGE.png">HR Analytics</a>
